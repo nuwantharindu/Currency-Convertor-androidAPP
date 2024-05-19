@@ -59,7 +59,7 @@ class _CurrencyConverterMaterialPageState
                       Icons.monetization_on_outlined,
                     ),
                     prefixIconColor: Color.fromRGBO(0, 0, 0, 0.702),
-                    hintText: 'Enter Amount (LKR)',
+                    hintText: 'Enter Amount (USD)',
                     hintStyle:
                         TextStyle(color: Color.fromARGB(255, 34, 36, 37)),
                     filled: true,
